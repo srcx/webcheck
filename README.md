@@ -1,5 +1,7 @@
 # Web Check
 
+**Warning: unmaintained since 2001!**
+
 Web Check is a program for off-line web consistency testing.
 
 ## Usage
